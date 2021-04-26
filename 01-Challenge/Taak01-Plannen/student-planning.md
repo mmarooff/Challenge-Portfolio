@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 04:00 u             | Straks |
+| Ontwerpen   | Styling van elementen bepalen                  | 00:20 u             | Straks |
+| Realiseren  | Bestanden aanmaken                             | 00:40 u             | Straks |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 00:30 u             | Straks |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:20 u             | Straks |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren |                                                | 00:10 u             | Straks |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    | 02:30 u             | Straks |
