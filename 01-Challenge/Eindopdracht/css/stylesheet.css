@@ -38,7 +38,7 @@ body{
 
 .mijntabel {
     border-radius: 10px;
-    background-color: black;
+    background-color:yellow;
     border-top: 1px;
     border-bottom: 1px;
     border-left: 1px;
@@ -56,7 +56,7 @@ body{
 
 .mijntabel_td {
     background-color: red;
-    border-color: black;
+    border-color: white;
     border-top: 1px;
     border-bottom: 1px;
     border-left: 1px;
